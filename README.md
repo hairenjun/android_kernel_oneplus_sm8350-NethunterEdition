@@ -9,6 +9,9 @@ Support Oneplus9 aka lemonade.(Should also works on OPlus9 pro,technically)
 - System V IPC
 - Android Binder IPC Driver
 
+#### Network:
+- More congestion control support: bbr, etc
+- BPF(Berkeley Packet Filter) support
 #### Bluetooth:
 - HCI USB driver
 - Broadcom protocol support
@@ -19,6 +22,11 @@ Support Oneplus9 aka lemonade.(Should also works on OPlus9 pro,technically)
 - HCI BCM203x USB driver
 - HCI BPA10x USB driver
 - HCI BlueFRITZ! USB driver
+#### GNSS
+- GNSS devices drivers: mediatech,sirfstar,etc
+
+#### NFC
+- NFC devices drivers
 
 #### 802.11
 - cfg80211 wireless extensions compatibility
